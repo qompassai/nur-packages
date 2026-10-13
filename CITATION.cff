@@ -9,7 +9,7 @@ authors:
 version: "v2025-05-28"
 date-released: "2025-05-28"
 repository-code: "https://github.com/qompassai/nur-packages"
-license: "Q-CDA-1.0"
+license: "Apache-2.0"
 keywords:
   - AI
   - Education
